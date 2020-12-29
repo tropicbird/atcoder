@@ -1,5 +1,6 @@
 ## AtCoderの記録
-アカウント：https://atcoder.jp/users/tropicbird
+AtCoderに参加の度に更新していきます。正答（AC）できなかったコードもそのまま載せています。
+- アカウント：https://atcoder.jp/users/tropicbird
 ### 参加コンテスト
 2020-07-11　初参加（灰色コーダー）<br>
 2020-07-25　<br>
