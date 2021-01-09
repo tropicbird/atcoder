@@ -2,7 +2,7 @@
 AtCoderに参加の度に更新していきます。正答（AC）できなかったコードもそのまま載せています。
 - アカウント：https://atcoder.jp/users/tropicbird
 ### 参加コンテスト
-2020-07-11　初参加（灰色コーダー）<br>
+2020-07-11　初参加<br>
 2020-07-25　<br>
 2020-08-02　<br>
 2020-08-15　<br>
@@ -21,3 +21,4 @@ AtCoderに参加の度に更新していきます。正答（AC）できなか�
 2020-12-05, AtCoder Regular Contest 110, AB完, ※入茶<br>
 2020-12-13, AtCoder Beginner Contest 185, ABD完<br>
 2020-12-19, AtCoder Beginner Contest 186, ABC完<br>
+2021-01-09, AtCoder Regular Contest 111, 0完 ショック。。<br>
