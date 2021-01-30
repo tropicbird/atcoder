@@ -22,3 +22,4 @@ AtCoderに参加の度に更新していきます。正答（AC）できなか�
 2020-12-13, AtCoder Beginner Contest 185, ABD完<br>
 2020-12-19, AtCoder Beginner Contest 186, ABC完<br>
 2021-01-09, AtCoder Regular Contest 111, 0完 ショック。。<br>
+2021-01-30, AtCoder Beginner Contest 190, ABD完<br>
